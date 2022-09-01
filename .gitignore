@@ -1,0 +1,13 @@
+./models/male_model.pkl
+./models/female_model.pkl
+./models/generic_model.pkl
+./models/FLAME_texture.npz
+./data/texture_data_2048.npy
+./data/texture_data_1024.npy
+./data/texture_data_256.npy
+./data/texture_data_512.npy
+
+FLAME_samples/*
+results/*
+texture_samples_MPI/*
+*/__pycache__/*
