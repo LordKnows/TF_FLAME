@@ -11,3 +11,5 @@ FLAME_samples/*
 results/*
 texture_samples_MPI/*
 */__pycache__/*
+data/*
+models/*
